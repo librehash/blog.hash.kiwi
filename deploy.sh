@@ -16,7 +16,7 @@ git init
 git config user.name "librehash"
 git config user.email "github@hash.fail"
 
-git remote add upstream "https://$GH_TOKEN@github.com/librehash/thisisaprayerforhappypeople.git"
+git remote add upstream "https://$GH_TOKEN@github.com/librehash/blog.hash.kiwi.git"
 git fetch upstream
 git reset upstream/gh-pages
 
